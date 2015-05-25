@@ -1,7 +1,7 @@
 {
 	"version" : "2.5.0",
 	"gameVersion" : 1,
-	"deactivated" : true,
-	"deactivationMessage" : "Deactivations want's to be tested.",
+	"deactivated" : false,
+	"deactivationMessage" : "",
 	"deactivationLink" : ""
 }
