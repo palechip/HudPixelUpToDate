@@ -1,0 +1,26 @@
+{
+	"stable" : {
+		"MC-1.8" : {
+			latest : "2.6.0",
+			updateLink : "http://bit.ly/HudPixel",
+			updateReason : "HudPixel-Up-To-Date-Test #1"
+		}
+		"MC-1.7.10" : {
+			latest : "2.6.1",
+			updateLink : "http://bit.ly/HudPixel",
+			updateReason : "HudPixel-Up-To-Date-Test #3"
+		}
+	}
+	"dev" : {
+		"MC-1.8" : {
+			latest : "2.7.0",
+			updateLink : "http://bit.ly/HudPixel",
+			updateReason : "HudPixel-Up-To-Date-Test #2"
+		}
+		"MC-1.7.10" : {
+			latest : "2.7.1",
+			updateLink : "http://bit.ly/HudPixel",
+			updateReason : "HudPixel-Up-To-Date-Test #4"
+		}
+	}
+}
