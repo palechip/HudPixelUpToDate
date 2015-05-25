@@ -13,12 +13,12 @@
 	},
 	"dev" : {
 		"MC-1.8" : {
-			"latest" : "2.7.0",
+			"latest" : "2.7.0.99",
 			"updateLink" : "http://bit.ly/HudPixel",
 			"updateReason" : "HudPixel-Up-To-Date-Test #2"
 		},
 		"MC-1.7.10" : {
-			"latest" : "2.7.1",
+			"latest" : "2.7.1.99",
 			"updateLink" : "http://bit.ly/HudPixel",
 			"updateReason" : "HudPixel-Up-To-Date-Test #4"
 		}
