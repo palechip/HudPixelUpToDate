@@ -13,14 +13,14 @@
 	},
 	"dev" : {
 		"MC-1.8" : {
-			"latest" : "2.5.0",
+			"latest" : "4.0.4",
 			"updateLink" : "http://bit.ly/HudPixel",
-			"updateReason" : ""
+			"updateReason" : "Testing update nofications. Please confirm that you are seeing this."
 		},
 		"MC-1.7.10" : {
-			"latest" : "2.5.0",
+			"latest" : "4.0.4",
 			"updateLink" : "http://bit.ly/HudPixel",
-			"updateReason" : ""
+			"updateReason" : "Testing update nofications. Please confirm that you are seeing this."
 		}
 	}
 }
